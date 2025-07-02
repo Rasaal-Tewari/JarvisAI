@@ -21,10 +21,3 @@ A Python-based AI personal assistant capable of executing a diverse range of des
 - 📂 Open desktop applications via voice
 - 💬 Modular and scalable codebase
 
-## 📁 Project Structure
-
-- `main.py` – Entry point for the assistant
-- `voice.py` – Handles speech recognition and synthesis
-- `tasks/` – Contains modules for various tasks (emails, web, weather, etc.)
-- `utils/` – Utility functions and helpers
-
